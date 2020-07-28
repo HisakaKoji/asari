@@ -9,8 +9,7 @@ from __future__ import print_function
 import os
 
 import numpy as np
-import joblib
-
+from sklearn.externals import joblib
 
 class Sonar(object):
 
